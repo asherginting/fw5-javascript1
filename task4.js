@@ -20,11 +20,6 @@ let datasaya = {...data, name: "Asher Azriel Ginting", email: "asherginting3@gma
 console.log(datasaya)
 
 
-// Destructing data "Street dan City"!
-// let {street, city} = data;
-// console.log(street);
-// console.log(city);
-
 const {street, city} = data.address
 
 console.log(street)
