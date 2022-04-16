@@ -1,5 +1,4 @@
-
-const printSegitiga = 5
+const printSegitiga = 5 //data harus number
 
 if(typeof(printSegitiga) === "number") {
     for (let x=printSegitiga; x > 0; x--) {
